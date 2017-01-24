@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hi World!");
 
         System.out.println("Hello World! >_<");
+		System.out.println("수정수정");
+		
     }
 }
